@@ -1,11 +1,4 @@
 <?php
-function dd($data)
-{
-    echo "<pre>";
-    print_r($data);
-    echo "</pre><br/>";
-    echo "-------";
-}
 class ListNode
 {
     public $val = 0;
@@ -90,5 +83,3 @@ $l2 = Solution::createList($l2);
 
 $solution = new Solution;
 $test = $solution->addTwoNumbers($l1, $l2);
-
-dd($test);
