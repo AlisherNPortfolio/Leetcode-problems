@@ -6,7 +6,7 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 **Example 1:**
 
-![1667474814057](image/README/1667474814057.png)
+![1667474814057](img/addtwonumber1.jpg)
 
 
 <pre><strong>Input:</strong> l1 = [2,4,3], l2 = [5,6,4]
